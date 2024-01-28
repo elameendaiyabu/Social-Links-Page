@@ -16,8 +16,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/elameendaiyabu/Social-Links-Page.git]
+- Live Site URL: [https://social-profile-link.netlify.app/]
 
 ## My process
 
